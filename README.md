@@ -1,16 +1,12 @@
-# chat_app
+# Ghost Chat
 
-A new Flutter project.
+A simle chat application built with flutter and firebase
 
-## Getting Started
+### Contact Me
 
-This project is a starting point for a Flutter application.
+- [Instagram](https://www.instagram.com/_ghost_wheel_)
+- [Linkedin](https://www.linkedin.com/in/sourav-ojha-82ba81195/)
 
-A few resources to get you started if this is your first Flutter project:
+# Download
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- You can download the Ghost Walls app from [here.](https://bughunter-99.github.io/flutter-clockwheel/docs/)
