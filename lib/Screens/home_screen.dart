@@ -9,6 +9,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:shimmer/shimmer.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
 
@@ -281,7 +282,13 @@ class _HomeScreenState extends State<HomeScreen>
                             height: 20,
                           ),
                           InkWell(
-                            onTap: () {},
+                            onTap: () async {
+                              const url =
+                                  "https://github.com/bughunter-99/flutter-ghostchat";
+                              if (await canLaunch(url)) {
+                                await launch(url);
+                              }
+                            },
                             child: Row(
                               children: [
                                 Text(
@@ -300,8 +307,11 @@ class _HomeScreenState extends State<HomeScreen>
                             height: 20,
                           ),
                           InkWell(
-                            onTap: () {
-                              print("Contact link");
+                            onTap: () async {
+                              const url = "https://github.com/bughunter-99";
+                              if (await canLaunch(url)) {
+                                await launch(url);
+                              }
                             },
                             child: Row(
                               children: [
