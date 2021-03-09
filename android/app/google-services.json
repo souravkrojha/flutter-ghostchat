@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947682334006",
+    "project_id": "flutter-ghostchat",
+    "storage_bucket": "flutter-ghostchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947682334006:android:ae7c010e41034637640f97",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947682334006-b0ij906t34dmi553veu5m3bk64l0l46m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "7237a09def76aff436cbf7f61bd540e575bd92fe"
+          }
+        },
+        {
+          "client_id": "947682334006-0fnfctg6bo75tbm1ngadar5vblg9t9dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxFXT9BjszdPnLWObs1QNARNtz-wRelQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947682334006-0fnfctg6bo75tbm1ngadar5vblg9t9dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
