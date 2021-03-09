@@ -9,4 +9,6 @@ A simle chat application built with flutter and firebase
 
 # Download
 
-- You can download the Ghost Walls app from [here.](https://bughunter-99.github.io/flutter-clockwheel/docs/)
+- You can download the Ghost Walls app from [here.](https://bughunter-99.github.io/flutter-ghostchat/)
+
+#### you may have to reopen the app after sign in to use it properly
